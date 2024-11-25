@@ -1,1 +1,1 @@
-# [rsschool](https://javaveb.github.io/rsschool/cv)
+# [rsschool-cv](https://javaveb.github.io/rsschool/cv)
