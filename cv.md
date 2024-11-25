@@ -1,9 +1,5 @@
 # Дмитрук Степан
 
-## Контакты
-- Email: [stepandzm6@gmail.com](mailto:stepandzm69@gmail.com)
-- Telegram: [oddlystepan](https://t.me/oddlystepan)
-
 ## Навыки
 - C++
 - HTML & CSS
@@ -74,3 +70,7 @@ int main() {
 - Немецкий
 - Английский
 - Русский
+
+## Контакты
+- Email: [stepandzm6@gmail.com](mailto:stepandzm69@gmail.com)
+- Telegram: [oddlystepan](https://t.me/oddlystepan)
